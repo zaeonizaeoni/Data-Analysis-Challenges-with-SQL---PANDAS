@@ -33,23 +33,10 @@ Through these 100 problems, I have applied the following concepts:
 
 ---
 
-### 🌟 Challenge Highlights (Best Solutions)
-I have curated the most significant problems that demonstrate deep understanding:
-
-| # | Problem Title | Key Concept | Solution Link |
-|---|---|---|---|
-| 77 | Hierarchical Org Chart | **Recursive CTE** | [Link to file](./Highlights/Problem_77.sql) |
-| 95 | Outlier Detection | **Statistical Filtering** | [Link to file](./Highlights/Problem_95.ipynb) |
-| 69 | Top N per Group | **Window Functions** | [Link to file](./Highlights/Problem_69.sql) |
-| 81 | Concrete Strength Analysis | **Correlation & Heatmap** | [Link to file](./Highlights/Problem_81.ipynb) |
-*(Click on the links to see the code)*
-
----
-
 ### 📈 Conclusion
 Completing these 100 challenges has bridged the gap between "Academic Knowledge" and "Practical Application," making me ready to tackle real-world data problems efficiently.
 
 ---
 📫 **Contact Me:**
-* **LinkedIn:** [ضع رابط حسابك هنا]
-* **Email:** [ضع ايميلك هنا]
+* **LinkedIn:** https://www.linkedin.com/in/zain-al-abdeen-ali-lateef-farhan-44b736398/
+* **Email:** zainal-abdeenali@outlook.com
